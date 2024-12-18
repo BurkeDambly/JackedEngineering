@@ -22,6 +22,7 @@ def swap(int_array, index1, index2):
 """
 Insertion sort works by looking at each number and enumerating back in the 
 list until it finds the correct location. 
+O(n log n) Complexity for worst, average, and best.
 """
 def insertion_sort(int_array_orignial):
     # Prevent alteration of orignal data
