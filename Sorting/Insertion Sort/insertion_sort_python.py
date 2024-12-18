@@ -1,4 +1,4 @@
-# File Descriptor: Basic Demonstration of insertion sort.
+# File Descriptor: Basic demonstration of insertion sort.
 # Author: Burke Dambly
 
 
