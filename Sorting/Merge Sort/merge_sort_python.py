@@ -2,7 +2,7 @@
 # Author: Burke Dambly
 # & "C:/Users/burke/AppData/Local/Programs/Python/Python312/python.exe" -m pip install numpy
 import numpy
-print_enable = 1
+print_enable = 0
 
 
 """
@@ -65,5 +65,5 @@ def merge_sort(int_array):
 
 if __name__ == "__main__":
     arr_even = [9, 8, 2, 1]
-    #arr_odd = [1, 2, 3, 4, 8, 7, 6]
+    arr_odd = [1, 2, 3, 4, 8, 7, 6]
     print(merge_sort(arr_even))
