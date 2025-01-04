@@ -9,6 +9,7 @@ int main(){
         cout << arr[i] << endl;
     }
 
+    // Array size calculation is the size of the entire array / size of integer.
     cout << "The length of the array is: " << sizeof(arr) / sizeof(arr[0]) << endl;
     return 0;
 }
