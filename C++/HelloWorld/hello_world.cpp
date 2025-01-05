@@ -24,6 +24,6 @@ int main(){
     The cout or std::cout assigns the print statement to the console. The endl sends a new line character
     to cout 
     */
-    cout << "Hello, World" << endl;
+    std::cout << "Hello, World" << std::endl;
     return 0;
 }
